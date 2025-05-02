@@ -29,7 +29,8 @@
 RP2040 zeroのみ裏表の注意が必要です。
 以下のような向きではんだ付けを行ってください。
 基板表側にブートスイッチ、リセットスイッチが来る向きで、実装基板の裏側に取り付けます。
-
+![rp2040zero](https://github.com/takamegane/Numpad-3/blob/main/jpg/rp2040%20zero.jpg)
+![rp2040zero](https://github.com/takamegane/Numpad-3/blob/main/jpg/rp2040zero1.jpg)
 
 ## ファームウェアについて
 vialでキーマップを変更できます。基本的なファームとなっているため、好みに合わせてキーマップを作成しなおしてください。
