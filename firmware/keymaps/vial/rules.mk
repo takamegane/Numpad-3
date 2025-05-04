@@ -1,0 +1,4 @@
+SERIAL_DRIVER = vendor
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
