@@ -43,5 +43,7 @@ RP2040 zeroのみ裏表の注意が必要です。
 ![rp2040zero](https://github.com/takamegane/Numpad-3/blob/main/jpg/rp2040%20zero.jpg)
 ![rp2040zero](https://github.com/takamegane/Numpad-3/blob/main/jpg/rp2040zero1.jpg)
 
+
+
 ## ファームウェアについて
 vialでキーマップを変更できます。基本的なファームとなっているため、好みに合わせてキーマップを作成しなおしてください。
